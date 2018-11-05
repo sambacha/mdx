@@ -1,0 +1,18 @@
+{
+  "name": "rollup-plugin-mdx",
+  "version": "0.15.5",
+  "main": "index.js",
+  "author": "John Otander",
+  "license": "MIT",
+  "repository": "mdx-js/mdx",
+  "scripts": {
+    "test": "jest"
+  },
+  "peerDependencies": {
+    "@mdx-js/mdx": "^0.15.5",
+    "@mdx-js/tag": "^0.15.5"
+  },
+  "devDependencies": {
+    "jest": "^23.3.0"
+  }
+}
